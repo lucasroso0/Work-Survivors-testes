@@ -4,7 +4,7 @@ Build Web do jogo para a equipe testar no navegador. O código fica no repositó
 
 **Jogar:** https://lucasroso0.github.io/Work-Survivors-testes/
 
-Versão do código: `677f612`
+Versão do código: `f11678c`
 
 ## Controles
 | Ação | Teclado |
@@ -13,6 +13,6 @@ Versão do código: `677f612`
 | Bater o ponto | Enter |
 | Mover | WASD ou setas |
 | Escolher upgrade / comprar | Setas + Enter (ou mouse) |
-| Acelerar o tempo 8× (teste) | não funciona nesta versão |
+| Acelerar o tempo 8× (teste) | F3 (aperte de novo para voltar ao normal) |
 
 Obs.: clique uma vez na tela do jogo antes de usar o teclado. O primeiro carregamento baixa cerca de 45 MB.
