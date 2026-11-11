@@ -4,7 +4,7 @@ Build Web do jogo para a equipe testar no navegador. O código fica no repositó
 
 **Jogar:** https://lucasroso0.github.io/Work-Survivors-testes/
 
-Versão do código: `6e8b969`
+Versão do código: `add9740`
 
 ## Celular
 Jogue com o celular **na horizontal**. O joystick aparece onde o dedo encostar e fica parado ali enquanto o dedo estiver na tela; o botão ❚❚ no canto pausa. Para ficar em tela cheia, use o botão **Tela cheia** no cartão de ponto ou no menu de pausa.
