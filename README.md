@@ -4,7 +4,7 @@ Build Web do jogo para a equipe testar no navegador. O código fica no repositó
 
 **Jogar:** https://lucasroso0.github.io/Work-Survivors-testes/
 
-Versão do código: `51d507f` (branch main)
+Versão do código: `9c6dc57` (branch main)
 
 ## Celular
 Jogue com o celular **na horizontal**. O joystick aparece onde o dedo encostar e fica parado ali enquanto o dedo estiver na tela; o botão ❚❚ no canto pausa (na pausa ficam o volume, a música e a tremida de tela). O som começa depois do primeiro toque. Para ficar em tela cheia, use **Opções → Tela cheia** no menu inicial ou o botão no menu de pausa.
@@ -29,7 +29,7 @@ Aperte um botão do controle depois de abrir a página (o navegador só detecta 
 ## O que mudou nesta versão
 - **Mais difícil:** vida e velocidade novas (Lucas 80 / 50, Pabllo 75 / 75, Alexandre 55 / 35), armas com **25% menos dano base** e a classe sem bônus inicial (só +0,5% por nível).
 - **Armas de outro personagem** (da Caixa de hardware) dão **45% do dano**.
-- **Alexandre:** mais lento, com menos dano próprio; o hack e o roubo de vida precisam de 50% mais abates. Na névoa hacker ele não usa armas.
+- **Alexandre:** mais lento, com menos dano próprio; o hack carrega a cada 15 abates e o **roubo de vida a cada 25**. Na névoa hacker ele não usa armas.
 - **Pabllo:** a Bolsa de Bugigangas gira em **zigue-zague**, perto e longe dele (velocidade de ataque acelera a rotação). No **Modo anime** ele grita "IA MA TE CU DA SAI", solta corações e a aura dá **2x o dano atual** dele (não mata mais na hora).
 - **Lucas:** no Modo Tank fica **flexionando os braços** e, ao soltar, abre os braços gritando **"IMPACTO METEORO!"**.
 - **Wiper:** fica bem mais resistente a cada item que come e nunca morre com um golpe só.
